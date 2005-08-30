@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1339
+
+This is another project management for vim. 
+It scans all Makefile.am files recursively for SUBDIRS, _HEADERS and _SOURCES entries and displays all found files and directories in a window left of the codewindow. 
+If you select a file, it is opened. 
